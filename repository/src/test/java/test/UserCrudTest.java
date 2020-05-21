@@ -1,6 +1,8 @@
 package test;
 
 import static org.assertj.core.api.Assertions.assertThat;
+
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import test.entity.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -10,6 +12,7 @@ import test.repository.UserRepository;
 
 
 @RunWith(SpringRunner.class)
+@DataJpaTest
 public class UserCrudTest {
     @Autowired
     private UserRepository userRepository;
