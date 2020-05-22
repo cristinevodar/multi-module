@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c30c769-f2d3-4501-872d-756c507c7454" name="Default Changelist" comment="" />
+    <list default="true" id="1c30c769-f2d3-4501-872d-756c507c7454" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/java/test/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/com/todoapp/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/java/test/repository/UserRepository.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +39,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="UserCrudTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="repository" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.todoapp.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.UserCrudTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserCrudTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -34,9 +72,53 @@
       <option name="presentableId" value="Default" />
       <updated>1588226470074</updated>
     </task>
+    <task id="LOCAL-00001" summary="+clase &amp; interfete">
+      <created>1590150207640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590150207640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+clase &amp; interfete" />
+    <option name="LAST_COMMIT_MESSAGE" value="+clase &amp; interfete" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1245" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1590136234781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590136234781" />
+    <state x="648" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590133663002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590133663002" />
+    <state x="455" y="23" key="CommitChangelistDialog2" timestamp="1590150449005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="23" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590150449005" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1590150155229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590150155229" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1590150155228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590150155228" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1590150155228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590150155228" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1590150155229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590150155229" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590150217221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590150217221" />
     <state x="685" y="219" key="new project wizard" timestamp="1588227530254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
