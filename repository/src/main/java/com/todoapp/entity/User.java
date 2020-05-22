@@ -1,4 +1,4 @@
-package test.entity;
+package com.todoapp.entity;
 
 
 import javax.persistence.Entity;
